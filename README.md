@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋. I am checking out Git Hub's pages to see if it will work for our Basic Web Design students. 
 
 <!--
 **maryscottseattle/maryscottseattle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
